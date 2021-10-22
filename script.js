@@ -1,9 +1,9 @@
 const linksSocialMedia = {
 	github: "YuriMarch",
-	youtube: "maykbrito",
+	youtube: "",
 	facebook: "yuri.march.7",
 	instagram: "yuri.march",
-	twitter: "maykbrito",
+	twitter: "",
 };
 
 function changeSocialMedia() {

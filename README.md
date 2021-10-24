@@ -1,2 +1,2 @@
 # NLW
-Projeto desenvolvido na NLW 2021
+Projeto de um crachá desenvolvido durante a NLW Origin 2021

@@ -1,9 +1,7 @@
 const linksSocialMedia = {
 	github: "YuriMarch",
-	// youtube: "",
 	facebook: "yuri.march.7",
 	instagram: "yuri.march",
-	// twitter: "",
 	linkedin: "in/yuri-march",
 };
 
@@ -25,6 +23,7 @@ function getGithubProfileInfos() {
 			userLink.href = data.html_url;
 			userLogin.textContent = data.login;
 			profileImage.src = data.avatar_url;
+			followers.textContent = data.followers;
 		});
 }
 

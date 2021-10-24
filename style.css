@@ -82,3 +82,8 @@ ul {
 	gap: 0.5rem;
 	justify-content: center;
 }
+
+#repos {
+	display: inline-block;
+	color: rgb(219, 215, 154);
+}
